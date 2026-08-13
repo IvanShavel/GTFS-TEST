@@ -1,5 +1,5 @@
 {
-  "shareEnabled": false,
-  "routeBuilderEnabled": false,
+  "shareEnabled": true,
+  "routeBuilderEnabled": true,
   "sharePreviewBaseUrl": "http://test-123-bucket-32432-survey-web-999-random.s3-website.eu-central-1.amazonaws.com/"
 }
